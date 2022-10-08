@@ -1,0 +1,14 @@
+dog
+cat
+dog cat
+dog
+dog
+dog
+duck
+duck cat
+bird
+mouse 
+dog cat cat dog dog 
+mouse cat cat cat cat   
+cat cat cat cat
+duck duck duck cat
